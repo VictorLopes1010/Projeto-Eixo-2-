@@ -20,7 +20,7 @@ O objetivo dessa aplicação é fornecer para os clientes produtos do ramo cafee
 ## Justificativa
 
 <p align= "justify">
-Bem, a ideia surgiu como uma solução inovadora para quem aprecia um bom café e os momentos que ele proporciona tendo como objetivo envolver os usuários em uma viagem imersiva a uma bebida milenar que vem sobrevivendo às mutações contemporâneas. Desta forma, o e-coffee tem como missão realizar comércio eletrônico  de café 
+O ramo da Tecnologia e da Informação demandam muito tempo e por consequência o cansaço chega a níveis alarmantes, e para ajudar-nos a ficar despertos existe o café que tirando o ótimo gosto é um ajudante para toda hora. Então, juntando o contexto da pandemia, do home office e desta bebida que nos salva, a ideia surgiu como uma solução inovadora para quem aprecia um bom café e muita das vezes não tem tempo para ir em local ou comprar para fazer. Desta forma, o e-coffee tem como missão realizar comércio eletrônico de café.
 </p>
 
 ## Público-Alvo

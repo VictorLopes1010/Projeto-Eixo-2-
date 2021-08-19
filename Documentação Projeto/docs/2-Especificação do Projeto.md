@@ -4,10 +4,10 @@
 
 ## Personas
 
-|<h3>**XXXX**</h3> |  ||
+|<h3>**Lucas**</h3> |  ||
 | ------------------------------------------------------- | -------------------| ---------|
-| <img src=img/personas/fernanda.jpg width="90">| **Idade:** XXXX | **Aplicativos:** XXXXX |
-**Motivação:**  XXXXX| **Frustrações:**  XXXXXXX  |  **História:** XXXXXXX
+| <img src=img/personas/lucas.png width="180">| **Idade:** 28 | “Um bom café sem eu precisar parar de trabalhar seria perfeito.” |
+**Motivação:**  Comprar cafés especiais sem sair de casa| **Frustrações:**  Trabalho muito e não tenho tempo para procurar um café de qualidade em lojas físicas.  |  **História:** Programador fullstack, sem carro, gosta de café, trabalho muito, sem tempo. “Estou trabalhando demais! Tanto na empresa como em casa, e estou ficando cada vez mais cansado.
 | |  |  |
 
 ## Histórias de Usuários
