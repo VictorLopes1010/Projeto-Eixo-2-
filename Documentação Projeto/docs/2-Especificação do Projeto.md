@@ -6,8 +6,12 @@
 
 |<h3>**Lucas**</h3> |  ||
 | ------------------------------------------------------- | -------------------| ---------|
-| <img src=img/personas/lucas.png width="180">| **Idade:** 28 | “Um bom café sem eu precisar parar de trabalhar seria perfeito.” |
+|<a href="https://unsplash.com/photos/g4DgCF90EM4"><img src=img/personas/lucas.png width="180" alt="Photo by Sung Wang on Unsplash"></a>| **Idade:** 28 | “Um bom café sem eu precisar parar de trabalhar seria perfeito.” |
 **Motivação:**  Comprar cafés especiais sem sair de casa| **Frustrações:**  Trabalho muito e não tenho tempo para procurar um café de qualidade em lojas físicas.  |  **História:** Programador fullstack, sem carro, gosta de café, trabalho muito, sem tempo. “Estou trabalhando demais! Tanto na empresa como em casa, e estou ficando cada vez mais cansado.
+| |  |  |
+|<h3>**Regina**</h3> |  ||
+| <a href="https://unsplash.com/photos/_H6wpor9mjs"><img src=img/personas/regina.jpg width="180" alt='Photo by Edward Cisneros on Unsplash'></a>| **Idade:** 43 | “Um bom café sem eu precisar parar de trabalhar seria perfeito.” |
+**Motivação:** Utilizar o site para conseguir produtos para utilizar com o Café e realizar a compra do café de forma mensal. | **Frustrações:**  Difícil acesso a supermercados pois não possui tempo para ir até lojas físicas e falta de opção no mercado físico. |  **História:** Regina por sua profissão precisa trabalhar em vários turnos não sobrando tempo para ir até mercados físicos e por sempre gostar de experimentar novos sabores normalmente as prateleiras dos mercados não conseguem suprir seu desejo de mudança dos produtos.
 | |  |  |
 
 ## Histórias de Usuários
