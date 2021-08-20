@@ -28,24 +28,25 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O site deverá ter uma seção para o administrador, onde ele poderá gerenciar produtos e compras. | BAIXA |
-|RF-002| O site deverá organizar os produtos por categoria. | ALTA | 
-|RF-003| O site deverá permitir a busca de produtos por filtros.  | ALTA |
-|RF-004| O site deverá permitir a ordenação de produtos por características. | ALTA |
-|RF-005| O site deverá permitir que os produtos sejam salvos em uma lista de desejos. | MÉDIA
-|RF-006| O site deverá permitir agrupar produtos em um carrinho de compras. | MÉDIA |
-|RF-007| O site deverá mostrar recomendações baseadas nas pesquisas do usuário. | BAIXA |
-|RF-008| O site deverá mostrar itens em destaque e recentemente vendidos. | BAIXA |
-|RF-009| O site deverá notificar ao usuário sobre atualizações nas suas compras. | BAIXA |
-
+|RF-001| A aplicação deverá vender produtos relacionados a café | ALTA |
+|RF-002| A aplicação deverá ter uma seção para o administrador, onde ele poderá gerenciar produtos e compras. | ALTA |
+|RF-003| A aplicação deverá organizar os produtos por categoria de qualidade. | ALTA | 
+|RF-004| A aplicação deverá organizar os produtos por tipo de moagem. | ALTA | 
+|RF-005| A aplicação deverá permitir a busca de produtos por filtros.  | ALTA |
+|RF-006| A aplicação deverá permitir a ordenação de produtos por características. | ALTA |
+|RF-007| A aplicação deverá permitir que os produtos sejam salvos em uma lista de desejos. | MÉDIA
+|RF-008| A aplicação deverá permitir agrupar produtos em um carrinho de compras, mesmo sem usuário logado. | MÉDIA |
+|RF-009| A aplicação deverá mostrar recomendações baseadas nas pesquisas do usuário. | BAIXA |
+|RF-010| A aplicação deverá mostrar itens em destaque e recentemente vendidos. | BAIXA |
+|RF-011| A aplicação deverá notificar ao usuário sobre atualizações nas suas compras. | BAIXA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O site deve ser compatível com os principais navegadores do mercado.| ALTA |
-|RNF-002| O site deve ser simples de usar. | ALTA |
-|RNF-003| O site deve ser compatível com ambientes Mobile. | MÉDIA |
+|RNF-001| A aplicação deve ser compatível com os principais navegadores do mercado.| ALTA |
+|RNF-002| A aplicação deve ser simples de usar. | ALTA |
+|RNF-003| A aplicação deve ser responsiva em ambientes mobile. | MÉDIA |
 
 ## Restrições
 
@@ -54,5 +55,5 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| O projeto deverá ser feito somente com HTML, CSS e Javascript. Não poderá ser desenvolvido um módulo de backend ou uso de frameworks e bibliotecas. |
-|03| Só poderá utilizar programas gratuitos ou fornecidos pela PUC Minas |
+|02| O projeto deverá ser feito com frontend HTML, CSS e Javascript/Typescript e backend C#. |
+|03| Só poderão ser utilizados programas gratuitos ou fornecidos pela PUC Minas |
