@@ -14,7 +14,7 @@
 **Motivação:** Utilizar o site para conseguir produtos para utilizar com o Café e realizar a compra do café de forma mensal. | **Frustrações:**  Difícil acesso a supermercados pois não possui tempo para ir até lojas físicas e falta de opção no mercado físico. |  **História:** Regina por sua profissão precisa trabalhar em vários turnos não sobrando tempo para ir até mercados físicos e por sempre gostar de experimentar novos sabores normalmente as prateleiras dos mercados não conseguem suprir seu desejo de mudança dos produtos.
 | |  |  |
 |<h3>**Julio**</h3> |  ||
-| <a href="https://unsplash.com/photos/KIPqvvTOC1s"><img src=img/personas/julio.jpg width="180" alt='Photo by Edward Cisneros on Unsplash'></a>| **Idade:** 37 | “Sou um amante de café, mas hoje em dia sempre encontro mais do mesmo.” |
+| <a href="https://unsplash.com/photos/KIPqvvTOC1s"><img src=img/personas/julio.jpg width="180" alt='Photo by Jonas Kakaroto on Unsplash'></a>| **Idade:** 37 | “Sou um amante de café, mas hoje em dia sempre encontro mais do mesmo.” |
 **Motivação:** Utilizar o site para comprar café fino e importado. | **Frustrações:**  Difículdade de comprar cafés de otima qualidade e importados, dificuldade em encontrar sites confiaveis. |  **História:** Sou senior é trabalho em duas empresas em home-office tenho muito serviço então sempre estou tomando café, sempre gostei de comprar cafés mas na pamdemia não posso sair de casa pois tenho uma filha pequena e me preocupo demais com ela.
 | |  |  |
 |<h3>**Sthepany**</h3> |  ||
