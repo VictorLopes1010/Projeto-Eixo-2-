@@ -10,15 +10,17 @@
 **Motivação:**  Comprar cafés especiais sem sair de casa| **Frustrações:**  Trabalho muito e não tenho tempo para procurar um café de qualidade em lojas físicas.  |  **História:** Programador fullstack, sem carro, gosta de café, trabalho muito, sem tempo. “Estou trabalhando demais! Tanto na empresa como em casa, e estou ficando cada vez mais cansado.
 | |  |  |
 |<h3>**Regina**</h3> |  ||
-| <a href="https://unsplash.com/photos/_H6wpor9mjs"><img src=img/personas/regina.jpg width="180" alt='Photo by Edward Cisneros on Unsplash'></a>| **Idade:** 43 | “Um bom café sem eu precisar parar de trabalhar seria perfeito.” |
-**Motivação:** Utilizar o site para conseguir produtos para utilizar com o Café e realizar a compra do café de forma mensal. | **Frustrações:**  Difícil acesso a supermercados pois não possui tempo para ir até lojas físicas e falta de opção no mercado físico. |  **História:** Regina por sua profissão precisa trabalhar em vários turnos não sobrando tempo para ir até mercados físicos e por sempre gostar de experimentar novos sabores normalmente as prateleiras dos mercados não conseguem suprir seu desejo de mudança dos produtos.
+| <a href="https://unsplash.com/photos/_H6wpor9mjs"><img src=img/personas/regina.jpg width="180" alt='Photo by Edward Cisneros on Unsplash'></a>| **Idade:** 43 | “ A procura por novos produtos de qualidade para mim e para meus clientes ” |
+**Motivação:** Utilizar a aplicação para realizar compras de produtos diversos para testar na minha loja. | **Frustrações:**  Difícil fornecedores de produtos diversos relacionados a café tendo uma boa qualidade |  **História:** Empresária, dona de cafeteria, precisa buscar produtos váriados para experimentar em sua cafeteria junto com os clientes, também deseja produtos para utilizar em conjunto com o café como por exemplo copos, canudos, cafeteiras, etc.
 | |  |  |
 
 ## Histórias de Usuários
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-| XXXXXX | XXXXXXXXXXXXXXXXXXXXXXXX | XXXXXXXXXXXXXXXXXXXXX
+| Lucas | Falta de tempo para compar produtos relacionados a café já que passa a maior parte do tempo no trabalho. | Adquirir café de qualidade sem precisar sair de casa.
+| Regina | Conseguir variados produtos para utilizar em seu comércio | Conseguir comparar diversos produtos para que seus clientes possam experimentar e diversificar o seu cardápio.
+
 
 ## Requisitos
 
