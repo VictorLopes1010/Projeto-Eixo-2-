@@ -9,6 +9,10 @@
 |<a href="https://unsplash.com/photos/g4DgCF90EM4"><img src=img/personas/lucas.png width="180" alt="Photo by Sung Wang on Unsplash"></a>| **Idade:** 28 | “Um bom café sem eu precisar parar de trabalhar seria perfeito.” |
 **Motivação:**  Comprar cafés especiais sem sair de casa| **Frustrações:**  Trabalho muito e não tenho tempo para procurar um café de qualidade em lojas físicas.  |  **História:** Programador fullstack, sem carro, gosta de café, trabalho muito, sem tempo. “Estou trabalhando demais! Tanto na empresa como em casa, e estou ficando cada vez mais cansado.
 | |  |  |
+|<h3>**João Pedro**</h3> |  ||
+| <a href="https://unsplash.com/photos/_H6wpor9mjs"><img src=img/personas/velho.jpg width="180" alt='Photo by Edward Cisneros on Unsplash'></a>| **Idade:** 69 | “Para um deficiente fisico, comprar um café gourmet sem ter o trabalho de me locomover até a loja seria incrivel.” |
+**Motivação:** Comprar o melhor café da cidade através de uma plataforma online, onde não precisarei ir até a loja. | **Frustrações:**  É realmente problematico para mim que sou deficiente fisico me locomover para comprar qualquer coisa. |  **História:** Por uma rara condição genética perdi os movimentos das minhas pernas ainda criança, pela dificuldade de me locomover com minha cadeira de rodas é muito dificil realizar muitas tarefas.
+| |  |  |
 |<h3>**Regina**</h3> |  ||
 | <a href="https://unsplash.com/photos/_H6wpor9mjs"><img src=img/personas/regina.jpg width="180" alt='Photo by Edward Cisneros on Unsplash'></a>| **Idade:** 43 | “Um bom café sem eu precisar parar de trabalhar seria perfeito.” |
 **Motivação:** Utilizar o site para conseguir produtos para utilizar com o Café e realizar a compra do café de forma mensal. | **Frustrações:**  Difícil acesso a supermercados pois não possui tempo para ir até lojas físicas e falta de opção no mercado físico. |  **História:** Regina por sua profissão precisa trabalhar em vários turnos não sobrando tempo para ir até mercados físicos e por sempre gostar de experimentar novos sabores normalmente as prateleiras dos mercados não conseguem suprir seu desejo de mudança dos produtos.
@@ -27,6 +31,8 @@
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 | XXXXXX | XXXXXXXXXXXXXXXXXXXXXXXX | XXXXXXXXXXXXXXXXXXXXX
+
+
 
 ## Requisitos
 
