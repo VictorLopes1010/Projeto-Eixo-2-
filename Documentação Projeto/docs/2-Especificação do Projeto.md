@@ -13,6 +13,10 @@
 | <a href="https://unsplash.com/photos/_H6wpor9mjs"><img src=img/personas/regina.jpg width="180" alt='Photo by Edward Cisneros on Unsplash'></a>| **Idade:** 43 | “Um bom café sem eu precisar parar de trabalhar seria perfeito.” |
 **Motivação:** Utilizar o site para conseguir produtos para utilizar com o Café e realizar a compra do café de forma mensal. | **Frustrações:**  Difícil acesso a supermercados pois não possui tempo para ir até lojas físicas e falta de opção no mercado físico. |  **História:** Regina por sua profissão precisa trabalhar em vários turnos não sobrando tempo para ir até mercados físicos e por sempre gostar de experimentar novos sabores normalmente as prateleiras dos mercados não conseguem suprir seu desejo de mudança dos produtos.
 | |  |  |
+|<h3>**Sthepany**</h3> |  ||
+| <a href="https://unsplash.com/photos/DrVJk1EaPSc"><img src=img/personas/sthepany.jpg width="180" alt='Photo by Isaiah McClean on Unsplash'></a>| **Idade:** 20 | “Conhecer novos sabores é minha paixão.” |
+**Motivação:** Quero descobrir novos tipos de café para saborear. | **Frustrações:**  Não conheço lugares próximos onde poderia experimentar novos tipos de café. |  **História:** Tenho vontade de experimentar cafés diferentes, mas moro em uma cidade pequena, e por aqui há poucas opções de cafeterias e lojas especializadas.
+| |  |  |
 
 ## Histórias de Usuários
 
