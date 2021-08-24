@@ -6,8 +6,8 @@
 
 |<h3>**Lucas**</h3> |  ||
 | ------------------------------------------------------- | -------------------| ---------|
-|<a href="https://unsplash.com/photos/g4DgCF90EM4"><img src=img/personas/lucas.png width="180" alt="Photo by Sung Wang on Unsplash"></a>| **Idade:** 28 | “Um bom café sem eu precisar parar de trabalhar seria perfeito.” |
-**Motivação:**  Comprar cafés especiais sem sair de casa| **Frustrações:**  Trabalho muito e não tenho tempo para procurar um café de qualidade em lojas físicas.  |  **História:** Programador fullstack, sem carro, gosta de café, trabalho muito, sem tempo. “Estou trabalhando demais! Tanto na empresa como em casa, e estou ficando cada vez mais cansado.
+|<a href="https://unsplash.com/photos/g4DgCF90EM4"><img src=img/personas/lucas.png width="180" alt="Photo by Sung Wang on Unsplash"></a>| **Idade:** 28 | “Um sistema pensado para meu produto específico seria um tremendo diferencial.” |
+**Motivação:**  Quero expandir meu negócio de café para o mercado online.| **Frustrações:**  Só encontro sistemas genéricos, nada voltado para minha real necessidade. |  **História:** Sou microempreendedor e possuo uma loja de café, e devido ao último ano, percebi que investir no mercado online é fundamental, e quero iniciar nisso.
 | |  |  |
 |<h3>**João Pedro**</h3> |  ||
 | <a href="https://unsplash.com/photos/_H6wpor9mjs"><img src=img/personas/velho.jpg width="180" alt='Photo by Edward Cisneros on Unsplash'></a>| **Idade:** 69 | “Para um deficiente fisico, comprar um café gourmet sem ter o trabalho de me locomover até a loja seria incrivel.” |
@@ -56,6 +56,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-009| A aplicação deverá mostrar recomendações baseadas nas pesquisas do usuário. | BAIXA |
 |RF-010| A aplicação deverá mostrar itens em destaque e recentemente vendidos. | BAIXA |
 |RF-011| A aplicação deverá notificar ao usuário sobre atualizações nas suas compras. | BAIXA |
+|RF-012| A aplicação deverá mostrar ao administrador estatísticas sobre os produtos mais procurados. | BAIXA |
+|RF-013| A aplicação deverá permitir ao usuários avaliarem produtos comprados e comentar. | BAIXA |
+|RF-014| A aplicação deverá permitir ao usuários usarem cupons de desconto. | BAIXA |
 
 ### Requisitos não Funcionais
 
