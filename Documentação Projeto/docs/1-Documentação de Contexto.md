@@ -26,5 +26,5 @@ O ramo da Tecnologia e da Informação demandam muito tempo e por consequência 
 ## Público-Alvo
 
 <p align= "justify">
-O público alvo da aplicação se direciona desde a pessoas que amam o café e pessoas que apenas desejam obter algum produto deste ramo, também tendo em vista o lado comercial podendo atender cafeicultores, indústria do café e cafeterias, tendo em vista que será fornecido todos os tipos de produtos do grande mercado do café.
+Como citado, o consumo de café vem aumentando cada vez mais e muita das vezes pelo acúmulo de tarefas o consumidor não consegue acesso para o produto, ainda mais nesta pandemia com os comércios fechados e o preço dos produtos em inflação. Então, juntando o contexto da pandemia que nos limita dentro de casa, a falta de centros comerciais deste produto, a ideia surgiu como uma solução inovadora para quem aprecia um bom café e muita das vezes não tem tempo e nem recurso para ir em um local, comprar a máquina ou os ingredientes para fazer. Desta forma, o e-coffee tem como missão realizar comércio eletrônico de café.
 </p>
