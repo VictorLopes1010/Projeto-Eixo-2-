@@ -31,6 +31,7 @@
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 | Lucas | Falta de tempo para compar produtos relacionados a café já que passa a maior parte do tempo no trabalho. | Adquirir café de qualidade sem precisar sair de casa conseguindo tempo para realizar o meu trabalho.
+| João Pedro | Por problemas de mobilidade física preciso de uma forma para conseguir adquirir os produtos do café | Conseguir comprar os produtos sem me locomover e não precisar sair de casa. |
 | Regina | Conseguir variados produtos para utilizar em seu comércio | Conseguir comparar diversos produtos para que seus clientes possam experimentar e diversificar o seu cardápio.
 | Julio | Problema em encontrar sites confiaveis e para encontrar cafés com alta qualidade | Conseguir um bom site capaz de comprar café sem precisar sair de casa podendo me precavir da pandemia.  |
 | Sthepany | Não conheço lugares próximos para comprar café pois resido em uma pequena cidade. | Conseguir coprar café sem me preucupar com a localização. |
