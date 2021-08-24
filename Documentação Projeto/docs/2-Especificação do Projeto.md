@@ -13,6 +13,14 @@
 | <a href="https://unsplash.com/photos/_H6wpor9mjs"><img src=img/personas/regina.jpg width="180" alt='Photo by Edward Cisneros on Unsplash'></a>| **Idade:** 43 | “ A procura por novos produtos de qualidade para mim e para meus clientes ” |
 **Motivação:** Utilizar a aplicação para realizar compras de produtos diversos para testar na minha loja. | **Frustrações:**  Difícil fornecedores de produtos diversos relacionados a café tendo uma boa qualidade |  **História:** Empresária, dona de cafeteria, precisa buscar produtos váriados para experimentar em sua cafeteria junto com os clientes, também deseja produtos para utilizar em conjunto com o café como por exemplo copos, canudos, cafeteiras, etc.
 | |  |  |
+|<h3>**Julio**</h3> |  ||
+| <a href="https://unsplash.com/photos/KIPqvvTOC1s"><img src=img/personas/julio.jpg width="180" alt='Photo by Jonas Kakaroto on Unsplash'></a>| **Idade:** 37 | “Sou um amante de café, mas hoje em dia sempre encontro mais do mesmo.” |
+**Motivação:** Utilizar o site para comprar café fino e importado. | **Frustrações:**  Difículdade de comprar cafés de otima qualidade e importados, dificuldade em encontrar sites confiaveis. |  **História:** Sou senior é trabalho em duas empresas em home-office tenho muito serviço então sempre estou tomando café, sempre gostei de comprar cafés mas na pamdemia não posso sair de casa pois tenho uma filha pequena e me preocupo demais com ela.
+| |  |  |
+|<h3>**Sthepany**</h3> |  ||
+| <a href="https://unsplash.com/photos/DrVJk1EaPSc"><img src=img/personas/sthepany.jpg width="180" alt='Photo by Isaiah McClean on Unsplash'></a>| **Idade:** 20 | “Conhecer novos sabores é minha paixão.” |
+**Motivação:** Quero descobrir novos tipos de café para saborear. | **Frustrações:**  Não conheço lugares próximos onde poderia experimentar novos tipos de café. |  **História:** Tenho vontade de experimentar cafés diferentes, mas moro em uma cidade pequena, e por aqui há poucas opções de cafeterias e lojas especializadas.
+| |  |  |
 
 ## Histórias de Usuários
 
