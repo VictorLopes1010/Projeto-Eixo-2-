@@ -14,11 +14,11 @@
 **Motivação:** Comprar o melhor café da cidade através de uma plataforma online, onde não precisarei ir até a loja. | **Frustrações:**  É realmente problematico para mim que sou deficiente fisico me locomover para comprar qualquer coisa. |  **História:** Por uma rara condição genética perdi os movimentos das minhas pernas ainda criança, pela dificuldade de me locomover com minha cadeira de rodas é muito dificil realizar muitas tarefas.
 | |  |  |
 |<h3>**Regina**</h3> |  ||
-| <a href="https://unsplash.com/photos/_H6wpor9mjs"><img src=img/personas/regina.jpg width="180" alt='Photo by Edward Cisneros on Unsplash'></a>| **Idade:** 43 | “Um bom café sem eu precisar parar de trabalhar seria perfeito.” |
-**Motivação:** Utilizar o site para conseguir produtos para utilizar com o Café e realizar a compra do café de forma mensal. | **Frustrações:**  Difícil acesso a supermercados pois não possui tempo para ir até lojas físicas e falta de opção no mercado físico. |  **História:** Regina por sua profissão precisa trabalhar em vários turnos não sobrando tempo para ir até mercados físicos e por sempre gostar de experimentar novos sabores normalmente as prateleiras dos mercados não conseguem suprir seu desejo de mudança dos produtos.
+| <a href="https://unsplash.com/photos/_H6wpor9mjs"><img src=img/personas/regina.jpg width="180" alt='Photo by Edward Cisneros on Unsplash'></a>| **Idade:** 43 | “ A procura por novos produtos de qualidade para mim e para meus clientes ” |
+**Motivação:** Utilizar a aplicação para realizar compras de produtos diversos para testar na minha loja. | **Frustrações:**  Difícil fornecedores de produtos diversos relacionados a café tendo uma boa qualidade |  **História:** Empresária, dona de cafeteria, precisa buscar produtos váriados para experimentar em sua cafeteria junto com os clientes, também deseja produtos para utilizar em conjunto com o café como por exemplo copos, canudos, cafeteiras, etc.
 | |  |  |
 |<h3>**Julio**</h3> |  ||
-| <a href="https://unsplash.com/photos/KIPqvvTOC1s"><img src=img/personas/julio.jpg width="180" alt='Photo by Edward Cisneros on Unsplash'></a>| **Idade:** 37 | “Sou um amante de café, mas hoje em dia sempre encontro mais do mesmo.” |
+| <a href="https://unsplash.com/photos/KIPqvvTOC1s"><img src=img/personas/julio.jpg width="180" alt='Photo by Jonas Kakaroto on Unsplash'></a>| **Idade:** 37 | “Sou um amante de café, mas hoje em dia sempre encontro mais do mesmo.” |
 **Motivação:** Utilizar o site para comprar café fino e importado. | **Frustrações:**  Difículdade de comprar cafés de otima qualidade e importados, dificuldade em encontrar sites confiaveis. |  **História:** Sou senior é trabalho em duas empresas em home-office tenho muito serviço então sempre estou tomando café, sempre gostei de comprar cafés mas na pamdemia não posso sair de casa pois tenho uma filha pequena e me preocupo demais com ela.
 | |  |  |
 |<h3>**Sthepany**</h3> |  ||
@@ -30,7 +30,10 @@
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-| XXXXXX | XXXXXXXXXXXXXXXXXXXXXXXX | XXXXXXXXXXXXXXXXXXXXX
+| Lucas | Falta de tempo para compar produtos relacionados a café já que passa a maior parte do tempo no trabalho. | Adquirir café de qualidade sem precisar sair de casa conseguindo tempo para realizar o meu trabalho.
+| Regina | Conseguir variados produtos para utilizar em seu comércio | Conseguir comparar diversos produtos para que seus clientes possam experimentar e diversificar o seu cardápio.
+| Julio | Problema em encontrar sites confiaveis e para encontrar cafés com alta qualidade | Conseguir um bom site capaz de comprar café sem precisar sair de casa podendo me precavir da pandemia.  |
+| Sthepany | Não conheço lugares próximos para comprar café pois resido em uma pequena cidade. | Conseguir coprar café sem me preucupar com a localização. |
 
 
 
