@@ -7,23 +7,23 @@
 |<h3>**Lucas**</h3> |  ||
 | ------------------------------------------------------- | -------------------| ---------|
 |<a href="https://unsplash.com/photos/g4DgCF90EM4"><img src=img/personas/lucas.png width="180" alt="Photo by Sung Wang on Unsplash"></a>| **Idade:** 28 | “Um sistema pensado para meu produto específico seria um tremendo diferencial.” |
-**Motivação:**  Quero expandir meu negócio de café para o mercado online.| **Frustrações:**  Só encontro sistemas genéricos, nada voltado para minha real necessidade. |  **História:** Sou microempreendedor e possuo uma loja de café, e devido ao último ano, percebi que investir no mercado online é fundamental, e quero iniciar nisso.
+**Motivação:**  Quer expandir seu  negócio de café para o mercado online.| **Frustrações:**  Só encontra sistemas genéricos, nada voltado para sua real necessidade. |  **História:** Lucas é microempreendedor e possui uma loja de café, e devido ao último ano, percebeu que investir no mercado online é fundamental.
 | |  |  |
 |<h3>**João Pedro**</h3> |  ||
-| <a href="https://unsplash.com/photos/_H6wpor9mjs"><img src=img/personas/velho.jpg width="180" alt='Photo by Edward Cisneros on Unsplash'></a>| **Idade:** 69 | “Para um deficiente fisico, comprar um café gourmet sem ter o trabalho de me locomover até a loja seria incrivel.” |
-**Motivação:** Comprar o melhor café da cidade através de uma plataforma online, onde não precisarei ir até a loja. | **Frustrações:**  É realmente problematico para mim que sou deficiente fisico me locomover para comprar qualquer coisa. |  **História:** Por uma rara condição genética perdi os movimentos das minhas pernas ainda criança, pela dificuldade de me locomover com minha cadeira de rodas é muito dificil realizar muitas tarefas.
+| <a href="https://unsplash.com/photos/oMF2q4tlhDg"><img src=img/personas/joao.jpg width="180" alt='Photo by Portuguese Gravity on Unsplash'></a>| **Idade:** 69 | “Para um deficiente fisico, comprar um café gourmet sem ter o trabalho de me locomover até a loja seria incrivel.” |
+**Motivação:** Comprar o melhor café da cidade através de uma plataforma online, onde não precisarei ir até a loja. | **Frustrações:**  É realmente problematico para João, que é deficiente físico, se locomover para comprar qualquer coisa. |  **História:** Por uma rara condição genética, João perdeu os movimentos das pernas ainda criança, e pela dificuldade de me locomover em sua cadeira de rodas é muito difícil realizar diversas tarefas.
 | |  |  |
 |<h3>**Regina**</h3> |  ||
-| <a href="https://unsplash.com/photos/_H6wpor9mjs"><img src=img/personas/regina.jpg width="180" alt='Photo by Edward Cisneros on Unsplash'></a>| **Idade:** 43 | “ A procura por novos produtos de qualidade para mim e para meus clientes ” |
-**Motivação:** Utilizar a aplicação para realizar compras de produtos diversos para testar na minha loja. | **Frustrações:**  Difícil fornecedores de produtos diversos relacionados a café tendo uma boa qualidade |  **História:** Empresária, dona de cafeteria, precisa buscar produtos váriados para experimentar em sua cafeteria junto com os clientes, também deseja produtos para utilizar em conjunto com o café como por exemplo copos, canudos, cafeteiras, etc.
+| <a href="https://unsplash.com/photos/_H6wpor9mjs"><img src=img/personas/regina.jpg width="180" alt='Photo by Edward Cisneros on Unsplash'></a>| **Idade:** 43 | “A procura por novos produtos de qualidade para mim e para meus clientes ” |
+**Motivação:** Comprar produtos variados relacionadas a café para testar em sua loja. | **Frustrações:** Dificilmente os fornecedores estão dispostos a venderem em baixa quantidade, para teste de aceitação entre os clientes, e nas lojas locais não se encontra a variadade que Regina deseja. |  **História:** Empresária, dona de cafeteria, precisa buscar produtos variados como copos, canudos, cafeteiras e o próprio café, para experimentar em sua loja junto com os clientes.
 | |  |  |
 |<h3>**Julio**</h3> |  ||
 | <a href="https://unsplash.com/photos/KIPqvvTOC1s"><img src=img/personas/julio.jpg width="180" alt='Photo by Jonas Kakaroto on Unsplash'></a>| **Idade:** 37 | “Sou um amante de café, mas hoje em dia sempre encontro mais do mesmo.” |
-**Motivação:** Utilizar o site para comprar café fino e importado. | **Frustrações:**  Difículdade de comprar cafés de otima qualidade e importados, dificuldade em encontrar sites confiaveis. |  **História:** Sou senior é trabalho em duas empresas em home-office tenho muito serviço então sempre estou tomando café, sempre gostei de comprar cafés mas na pamdemia não posso sair de casa pois tenho uma filha pequena e me preocupo demais com ela.
+**Motivação:** Comprar cafés finos e importados. | **Frustrações:**  Dificuldade de encontrar sites confiáveis onde pode comprar cafés de alta qualidade e importados. |  **História:** Julio sempre foi um amante de café. Mas ultimamente está trabalhando muito e não consegue mais ir nas lojas onde estava habituado. Julio já tem o costume de comprar outros itens online, mas não achou nenhum site confiável para comprar café.
 | |  |  |
 |<h3>**Sthepany**</h3> |  ||
 | <a href="https://unsplash.com/photos/DrVJk1EaPSc"><img src=img/personas/sthepany.jpg width="180" alt='Photo by Isaiah McClean on Unsplash'></a>| **Idade:** 20 | “Conhecer novos sabores é minha paixão.” |
-**Motivação:** Quero descobrir novos tipos de café para saborear. | **Frustrações:**  Não conheço lugares próximos onde poderia experimentar novos tipos de café. |  **História:** Tenho vontade de experimentar cafés diferentes, mas moro em uma cidade pequena, e por aqui há poucas opções de cafeterias e lojas especializadas.
+**Motivação:** Quer descobrir novos tipos de café para saborear. | **Frustrações:**  Não conhece lugares próximos onde poderia experimentar novos tipos de café, e tem dificuldades de usar o computador ou celular para comprar online. |  **História:** Sthepany tem vontade de experimentar cafés diferentes, mas onde mora há poucas opções de lojas especializadas. Além disso, ela sempre acha os sites de venda muito complicados e acaba desistindo.
 | |  |  |
 
 ## Histórias de Usuários
