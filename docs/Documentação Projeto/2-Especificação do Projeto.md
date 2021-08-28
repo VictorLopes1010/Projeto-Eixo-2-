@@ -14,7 +14,7 @@
 **Motivação:** Comprar o melhor café da cidade através de uma plataforma online, onde não precisarei ir até a loja. | **Frustrações:**  É realmente problematico para João, que é deficiente físico, se locomover para comprar qualquer coisa. |  **História:** Por uma rara condição genética, João perdeu os movimentos das pernas ainda criança, e pela dificuldade de me locomover em sua cadeira de rodas é muito difícil realizar diversas tarefas.
 | |  |  |
 |<h3>**Regina**</h3> |  ||
-| <a href="https://unsplash.com/photos/_H6wpor9mjs"><img src=img/personas/regina.jpg width="180" alt='Photo by Edward Cisneros on Unsplash'></a>| **Idade:** 43 | “A procura por novos produtos de qualidade para mim e para meus clientes ” |
+| <a href="https://unsplash.com/photos/_H6wpor9mjs"><img src=img/personas/regina.jpg width="180" alt='Photo by Edward Cisneros on Unsplash'></a>| **Idade:** 43 | “A procura por novos produtos de qualidade para mim e para meus clientes.” |
 **Motivação:** Comprar produtos variados relacionadas a café para testar em sua loja. | **Frustrações:** Dificilmente os fornecedores estão dispostos a venderem em baixa quantidade, para teste de aceitação entre os clientes, e nas lojas locais não se encontra a variadade que Regina deseja. |  **História:** Empresária, dona de cafeteria, precisa buscar produtos variados como copos, canudos, cafeteiras e o próprio café, para experimentar em sua loja junto com os clientes.
 | |  |  |
 |<h3>**Julio**</h3> |  ||
