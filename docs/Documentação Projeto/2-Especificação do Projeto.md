@@ -9,7 +9,7 @@
 |<a href="https://unsplash.com/photos/g4DgCF90EM4"><img src=img/personas/lucas.png width="180" alt="Photo by Sung Wang on Unsplash"></a>| **Idade:** 28 | “Um sistema pensado para meu produto específico seria um tremendo diferencial.” |
 **Motivação:**  Quer expandir seu  negócio de café para o mercado online.| **Frustrações:**  Só encontra sistemas genéricos, nada voltado para sua real necessidade. |  **História:** Lucas é microempreendedor e possui uma loja de café, e devido ao último ano, percebeu que investir no mercado online é fundamental.
 | |  |  |
-|<h3>**João Pedro**</h3> |  ||
+|<h3>**João**</h3> |  ||
 | <a href="https://unsplash.com/photos/oMF2q4tlhDg"><img src=img/personas/joao.jpg width="180" alt='Photo by Portuguese Gravity on Unsplash'></a>| **Idade:** 69 | “Para um deficiente fisico, comprar um café gourmet sem ter o trabalho de me locomover até a loja seria incrivel.” |
 **Motivação:** Comprar o melhor café da cidade através de uma plataforma online, onde não precisarei ir até a loja. | **Frustrações:**  É realmente problematico para João, que é deficiente físico, se locomover para comprar qualquer coisa. |  **História:** Por uma rara condição genética, João perdeu os movimentos das pernas ainda criança, e pela dificuldade de me locomover em sua cadeira de rodas é muito difícil realizar diversas tarefas.
 | |  |  |
@@ -30,13 +30,17 @@
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-| Lucas | Falta de tempo para compar produtos relacionados a café já que passa a maior parte do tempo no trabalho. | Adquirir café de qualidade sem precisar sair de casa conseguindo tempo para realizar o meu trabalho.
-| João Pedro | Por problemas de mobilidade física preciso de uma forma para conseguir adquirir os produtos do café | Conseguir comprar os produtos sem me locomover e não precisar sair de casa. |
-| Regina | Conseguir variados produtos para utilizar em seu comércio | Conseguir comparar diversos produtos para que seus clientes possam experimentar e diversificar o seu cardápio.
-| Julio | Problema em encontrar sites confiaveis e para encontrar cafés com alta qualidade | Conseguir um bom site capaz de comprar café sem precisar sair de casa podendo me precavir da pandemia.  |
-| Sthepany | Não conheço lugares próximos para comprar café pois resido em uma pequena cidade. | Conseguir coprar café sem me preucupar com a localização. |
-
-
+|Lucas|Um site voltado para venda de cafés e relacionados.|Conectar-se mais facilmente com seu cliente.
+|Lucas|Gerenciar produtos e vendas.|Organização do setor de vendas e ter controle sobre os produtos.
+|Sthepany|Buscar os produtos de acordo com uma busca ou algum critério.|Facilitar o uso.
+|Sthepany|Ordenar produtos exibidos de acordo com algum critério.|Faciltiar o uso.
+|João|Colocar produtos em uma lista de desejos.|Comprar de forma recorrente sem precisar buscar o produto toda vez.
+|Regina|Agrupar os produtos que serão comprados em um carrinho de compras.|Comprar vários produtos de uma vez.
+|Lucas|Mostrar itens em destaque e recentemente vendidos|Aumentar a taxa de vendas.
+|Lucas|Mostrar estatísticas sobre compras.|Dar insumos para melhores estratégias de negócio.
+|Julio|Receber notificações sobre a entrega da minha compra.|Para haver preocupação ao esperar a entrega chegar.
+|Regina|Avaliar os produtos comprados.|Para compartilhar minha opinião sobre um produto e ter opiniões prévias antes de comprar.
+|Lucas|Permitir os clientes usarem cupons de desconto.|Oferecer promoções de forma limitada e/ou exclusiva.
 
 ## Requisitos
 
@@ -46,20 +50,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| A aplicação deverá vender produtos relacionados a café | ALTA |
-|RF-002| A aplicação deverá ter uma seção para o administrador, onde ele poderá gerenciar produtos e compras. | ALTA |
-|RF-003| A aplicação deverá organizar os produtos por categoria de qualidade. | ALTA | 
-|RF-004| A aplicação deverá organizar os produtos por tipo de moagem. | ALTA | 
-|RF-005| A aplicação deverá permitir a busca de produtos por filtros.  | ALTA |
-|RF-006| A aplicação deverá permitir a ordenação de produtos por características. | ALTA |
-|RF-007| A aplicação deverá permitir que os produtos sejam salvos em uma lista de desejos. | MÉDIA
-|RF-008| A aplicação deverá permitir agrupar produtos em um carrinho de compras, mesmo sem usuário logado. | MÉDIA |
-|RF-009| A aplicação deverá mostrar recomendações baseadas nas pesquisas do usuário. | BAIXA |
-|RF-010| A aplicação deverá mostrar itens em destaque e recentemente vendidos. | BAIXA |
-|RF-011| A aplicação deverá notificar ao usuário sobre atualizações nas suas compras. | BAIXA |
-|RF-012| A aplicação deverá mostrar ao administrador estatísticas sobre os produtos mais procurados. | BAIXA |
-|RF-013| A aplicação deverá permitir ao usuários avaliarem produtos comprados e comentar. | BAIXA |
-|RF-014| A aplicação deverá permitir ao usuários usarem cupons de desconto. | BAIXA |
+|RF-001| A aplicação deverá vender produtos relacionados a café. | ALTA |
+|RF-002| A aplicação deverá ter uma seção para o administrador, onde ele poderá gerenciar produtos e vendas. | ALTA |
+|RF-003| A aplicação deverá permitir buscar os produtos por nome, tipo de produto, qualidade (café), especificidades do processo de produção (café), peso (café). | ALTA | 
+|RF-004| A aplicação deverá permitir ordenar os produtos por preço, qualidade (café), peso (café). | ALTA |
+|RF-005| A aplicação deverá permitir que os produtos sejam salvos em uma lista de desejos. | MÉDIA
+|RF-006| A aplicação deverá permitir agrupar produtos em um carrinho de compras. | MÉDIA |
+|RF-007| A aplicação deverá mostrar recomendações baseadas nas pesquisas do usuário. | BAIXA |
+|RF-008| A aplicação deverá mostrar itens em destaque e recentemente vendidos. | BAIXA |
+|RF-009| A aplicação deverá mostrar ao administrador estatísticas sobre os produtos mais procurados. | BAIXA |
+|RF-010| A aplicação deverá notificar ao usuário sobre atualizações nas suas compras. | BAIXA |
+|RF-011| A aplicação deverá permitir ao usuários avaliarem produtos comprados e comentar. | BAIXA |
+|RF-012| A aplicação deverá permitir ao usuários usarem cupons de desconto. | BAIXA |
 
 ### Requisitos não Funcionais
 
@@ -76,5 +78,5 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| O projeto deverá ser feito com frontend HTML, CSS e Javascript/Typescript e backend C#. |
+|02| O projeto deverá ser feito com backend C#. |
 |03| Só poderão ser utilizados programas gratuitos ou fornecidos pela PUC Minas |
