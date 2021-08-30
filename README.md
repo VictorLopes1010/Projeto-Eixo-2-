@@ -6,9 +6,7 @@
 
 `2º Semestre`
 
-
-[ALTERAR RESUMO INSTRODUTORIO DO PROJETO]
-De uma forma geral, o objetivo é fazer com que o usuário passe a entender de uma forma mais objetiva os diversos tipos de hardware, assim como receber recomendações personalizadas de acordo com sua necessidade, facilitando a aquisição de um novo hardware. 
+De forma geral, o objetivo desse projeto é criar uma aplicação e-Commerce voltada para produtos relacionadas a café, oferecendo uma experiência agradável para usuário e administrador.
 
 ## Integrantes
 
