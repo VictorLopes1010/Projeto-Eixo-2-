@@ -19,11 +19,11 @@ O objetivo dessa aplicação é fornecer para os clientes produtos do ramo cafee
 ## Justificativa
 
 <p align= "justify">
-O ramo da Tecnologia e da Informação demandam muito tempo e por consequência o cansaço chega a níveis alarmantes, e para ajudar-nos a ficar despertos existe o café que tirando o ótimo gosto é um ajudante para toda hora. Então, juntando o contexto da pandemia, do home office e desta bebida que nos salva, a ideia surgiu como uma solução inovadora para quem aprecia um bom café e muita das vezes não tem tempo para ir em local ou comprar para fazer. Desta forma, o e-Coffee tem como missão realizar comércio eletrônico de café.
+Como citado, o consumo de café vem aumentando cada vez mais e muita das vezes pelo acúmulo de tarefas o consumidor não consegue acesso para o produto, ainda mais nesta pandemia com os comércios fechados e o preço dos produtos em inflação. Então, juntando o contexto da pandemia que nos limita dentro de casa, a falta de centros comerciais deste produto, a ideia surgiu como uma solução inovadora para quem aprecia um bom café e muita das vezes não tem tempo e nem recurso para ir em um local, comprar a máquina ou os ingredientes para fazer. Desta forma, o e-Coffee tem como missão realizar comércio eletrônico de café.
 </p>
 
 ## Público-Alvo
 
 <p align= "justify">
-Como citado, o consumo de café vem aumentando cada vez mais e muita das vezes pelo acúmulo de tarefas o consumidor não consegue acesso para o produto, ainda mais nesta pandemia com os comércios fechados e o preço dos produtos em inflação. Então, juntando o contexto da pandemia que nos limita dentro de casa, a falta de centros comerciais deste produto, a ideia surgiu como uma solução inovadora para quem aprecia um bom café e muita das vezes não tem tempo e nem recurso para ir em um local, comprar a máquina ou os ingredientes para fazer. Desta forma, o e-Coffee tem como missão realizar comércio eletrônico de café.
+O público alvo da aplicação se direciona desde a pessoas que amam o café e pessoas que apenas desejam obter algum produto deste ramo, também tendo em vista o lado comercial podendo atender lojistas e cafeterias, tendo em vista que será fornecido todos os tipos de produtos do grande mercado do café.
 </p>
