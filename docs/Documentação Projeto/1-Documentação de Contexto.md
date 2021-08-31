@@ -1,3 +1,5 @@
+[Vídeo apresentação primeira etapa](https://www.youtube.com/watch?v=RFDbVjnLvCY)
+
 ## Introdução
 
 <p align= "justify">
