@@ -6,9 +6,7 @@
 
 `2º Semestre`
 
-
-[ALTERAR RESUMO INSTRODUTORIO DO PROJETO]
-De uma forma geral, o objetivo é fazer com que o usuário passe a entender de uma forma mais objetiva os diversos tipos de hardware, assim como receber recomendações personalizadas de acordo com sua necessidade, facilitando a aquisição de um novo hardware. 
+De forma geral, o objetivo desse projeto é criar uma aplicação e-Commerce voltada para produtos relacionadas a café, oferecendo uma experiência agradável para usuário e administrador.
 
 ## Integrantes
 
@@ -26,19 +24,9 @@ De uma forma geral, o objetivo é fazer com que o usuário passe a entender de u
 # Documentação
 
 <ol>
-<li><a href="Documentação Projeto/docs/1-Documentação de Contexto.md"> Documentação de Contexto</a></li>
-<li><a href="Documentação Projeto/docs/2-Especificação do Projeto.md"> Especificação do Projeto</a></li>
-<li><a href="Documentação Projeto/docs/3-Metodologia.md"> Metodologia</a></li>
-<li><a href="Documentação Projeto/docs/4-Projeto de Interface.md"> Projeto de Interface</a></li>
-<li><a href="Documentação Projeto/docs/5-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
-<li><a href="Documentação Projeto/docs/6-Template padrão do Site.md"> Template padrão do Site</a></li>
-<li><a href="Documentação Projeto/docs/7-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
-<li><a href="Documentação Projeto/docs/8-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
-<li><a href="Documentação Projeto/docs/9-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="Documentação Projeto/docs/10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
-<li><a href="Documentação Projeto/docs/11-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
-<li><a href="Documentação Projeto/docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
-<li><a href="Documentação Projeto/docs/13-Referências.md"> Referências</a></li>
+<li><a href="docs/Documentação Projeto/1-Documentação de Contexto.md"> Documentação de Contexto</a></li>
+<li><a href="docs/Documentação Projeto/2-Especificação do Projeto.md"> Especificação do Projeto</a></li>
+<li><a href="docs/Documentação Projeto/3-Diagrama de Casos de Uso.md"> Diagrama de Casos de Uso</a></li>
 </ol>
 
 # Código

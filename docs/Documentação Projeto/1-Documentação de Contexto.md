@@ -1,3 +1,5 @@
+[Vídeo apresentação primeira etapa](https://www.youtube.com/watch?v=RFDbVjnLvCY)
+
 ## Introdução
 
 <p align= "justify">
@@ -16,15 +18,14 @@ No fim de 2019 nos deparamos com uma doença viral que é a COVID-19 que além d
 O objetivo dessa aplicação é fornecer para os clientes produtos do ramo cafeeiro, sendo assim desde produtos simples como xícaras e copos até produtos mais complexos como moedor de café e maquinários deste nicho e claro o próprio café  em grande variedades, o sistema será uma aplicação Web capaz de oferecer ao usuário uma ótima forma de organização, separação e catalogação dos produtos, deverá exercer a possibilidade de compra do produto para o cliente e informar se o endereço onde se encontra o cliente é disponível para entregas, também deverá ter a possibilidade de escolha do cliente sobre determinados produtos como favoritos. O site poderá ter um algoritmo para recomendação dos produtos para o cliente com base nos produtos escolhidos. A aplicação terá outras funcionalidades para deixar o atendimento ao cliente de forma automatizada e prática proporcionando assim uma excelente experiência ao cliente. Terá a possibilidade de acessar o site como administrador tendo acesso a funcionalidades restritas a usuários “comuns”.
 </p> 
 
-
 ## Justificativa
 
 <p align= "justify">
-O ramo da Tecnologia e da Informação demandam muito tempo e por consequência o cansaço chega a níveis alarmantes, e para ajudar-nos a ficar despertos existe o café que tirando o ótimo gosto é um ajudante para toda hora. Então, juntando o contexto da pandemia, do home office e desta bebida que nos salva, a ideia surgiu como uma solução inovadora para quem aprecia um bom café e muita das vezes não tem tempo para ir em local ou comprar para fazer. Desta forma, o e-coffee tem como missão realizar comércio eletrônico de café.
+Como citado, o consumo de café vem aumentando cada vez mais e muita das vezes pelo acúmulo de tarefas o consumidor não consegue acesso para o produto, ainda mais nesta pandemia com os comércios fechados e o preço dos produtos em inflação. Então, juntando o contexto da pandemia que nos limita dentro de casa, a falta de centros comerciais deste produto, a ideia surgiu como uma solução inovadora para quem aprecia um bom café e muita das vezes não tem tempo e nem recurso para ir em um local, comprar a máquina ou os ingredientes para fazer. Desta forma, o e-Coffee tem como missão realizar comércio eletrônico de café.
 </p>
 
 ## Público-Alvo
 
 <p align= "justify">
-O público alvo da aplicação se direciona desde a pessoas que amam o café e pessoas que apenas desejam obter algum produto deste ramo, também tendo em vista o lado comercial podendo atender cafeicultores, indústria do café e cafeterias, tendo em vista que será fornecido todos os tipos de produtos do grande mercado do café.
+O público alvo da aplicação se direciona desde a pessoas que amam o café e pessoas que apenas desejam obter algum produto deste ramo, também tendo em vista o lado comercial podendo atender lojistas e cafeterias, tendo em vista que será fornecido todos os tipos de produtos do grande mercado do café.
 </p>
