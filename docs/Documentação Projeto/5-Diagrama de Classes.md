@@ -1,7 +1,16 @@
-## Diagrama de Casos de Uso
+## Diagrama de Classes
 
 <p align= "justify">
-Os casos de uso mostrando os Requisitos Funcionais para a aplicação são ilustrados abaixo.
+As classes que farão parte do sistema estão descritas abaixo.
 <p>
 
-![Diagrama de Casos de Uso](img/diagrama_de_caso_de_uso.png)
+![Diagrama de Casos de Uso](img/diagrama_de_classes.png)
+
+
+## Diagrama de Banco de Dados
+
+<p align= "justify">
+As tabelas do banco de dados estão descritas abaixo.
+<p>
+
+![Diagrama de Casos de Uso](img/diagrama_de_banco_de_dados.png)

@@ -1,7 +1,7 @@
 ## Diagrama de Casos de Uso
 
 <p align= "justify">
-Os casos de uso mostrando os Requisitos Funcionais para a aplicação são ilustrados abaixo.
+O modelo de Entidade Relacionamento está descrito abaixo.
 <p>
 
-![Diagrama de Casos de Uso](img/diagrama_de_caso_de_uso.png)
+![Diagrama de Casos de Uso](img/diagrama_er.png)
